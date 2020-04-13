@@ -1,0 +1,30 @@
+E:\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+E:\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.Cache
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+E:\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
+F:\SOFT\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+F:\SOFT\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csprojAssemblyReference.cache
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.cache
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.CoreCompileInputs.cache
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+C:\Users\samhp\OneDrive\Desktop\dss\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csprojAssemblyReference.cache
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.cache
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.CoreCompileInputs.cache
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+D:\BT_t7\UngDungChatQuaClientSever\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
